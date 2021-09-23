@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrnoSlvrio
 - 👀 I’m interested in learn about programming languages and develop new projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, CSS and HTML
 - 💞️ I’m looking to collaborate on new software developments
 - 📫 How to reach me bruno.silverio998@gmail.com
 
