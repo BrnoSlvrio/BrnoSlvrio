@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BrnoSlvrio
-- 👀 I’m interested in learn about programming languages and develop new projects
-- 🌱 I’m currently learning JavaScript, CSS and HTML
-- 💞️ I’m looking to collaborate on new software developments
-- 📫 How to reach me bruno.silverio998@gmail.com
+- 👋 Olá! Me chamo Bruno Silverio!
+- 👀 Estou interessado em desenvolver novos projetos voltados para análise de dados, automação de processos e desenvolvimento de sites.
+- 🌱 Em constante aprendizado nas minhas principais linguagens: PHP / SQL / Python / JavaScript
+- 🤝 Em busca de novos networkings
+- 📫 Meu contato: bruno.silverio998@gmail.com
 
 <!---
 BrnoSlvrio/BrnoSlvrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
